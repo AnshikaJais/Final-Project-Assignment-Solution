@@ -5,9 +5,9 @@
 ## Managing environments with Conda 
 (*See the cheat sheet provided to see some of the important commands*)
 
-<object src="/Heart-Disease-Prediction/conda-cheatsheet.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/Heart-Disease-Prediction/conda-cheatsheet.pdf">
-        <a href="/Heart-Disease-Prediction/conda-cheatsheet.pdf">Download Cheatsheet</a>
+<object src="https://github.com/AnshikaJais/Heart-Disease-Prediction/blob/master/conda-cheatsheet.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/AnshikaJais/Heart-Disease-Prediction/blob/master/conda-cheatsheet.pdf">
+        <a href="https://github.com/AnshikaJais/Heart-Disease-Prediction/blob/master/conda-cheatsheet.pdf">Download Cheatsheet</a>
 
 </object>
 
